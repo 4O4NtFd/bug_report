@@ -1,8 +1,4 @@
-# Employee and Visitor Gate Pass Logging System v1.0 has SQL injection
-
 BUG_Author: ZongXinLi
-
-Website source address:https://www.sourcecodester.com/php/15026/employee-and-visitor-gate-pass-logging-system-php-source-code.html
 
 Vulnerability File: /employee_gatepass/admin/maintenance/view_designation.php
 
