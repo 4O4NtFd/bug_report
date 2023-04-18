@@ -58,6 +58,6 @@ Error injection success
 
 When I enter the version number 5.7.26, it returns "success". Error statement when typing 5.7.27
 
-![image-20230418112554085](/SQLi-2.png)
+![image-20230418112554085](./SQLi-2.png)
 
 ![image-20230418112616037](/SQLi-3.png)
