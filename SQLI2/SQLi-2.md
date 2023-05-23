@@ -1,6 +1,22 @@
-BUG_Author: ZongXinLi
+## BUG_Author: 
+**ZongXin Li**
 
-Vulnerability File: /employee_gatepass/classes/Login.php
+## Affected version: 
+EMPLOYEE AND VISITOR GATE PASS LOGGING SYSTEM - 1.0
+
+## Vendor:
+https://www.sourcecodester.com/users/tips23
+
+## Software:
+https://www.sourcecodester.com/php/15026/employee-and-visitor-gate-pass-logging-system-php-source-code.html
+
+## Vulnerability File:
+/employee_gatepass/classes/Login.php
+
+## Description:
+The system Employee and Visitor Gate Pass Logging 1.0 is vulnerable to SQL Injection via /employee_gatepass/classes/Login.php.
+The parameter `username` is not sanitized correctly. The malicious actor can use this vulnerability to manipulate the administrator account of the systemand can take full control of the information about the other accounts.
+Status: CRITICAL
 
 GET parameter 'username' exists SQL injection vulnerability
 
